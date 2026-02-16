@@ -34,6 +34,6 @@
 
 # 📬 联系我
 * **GitHub**: [Rabbit-Spec](https://github.com/Rabbit-Spec)
-* **技术讨论**: 欢迎在 Issues 中交流关于Surge / Clash配置优化方案或增加ASUS 
+* **技术讨论**: 欢迎在 Issues 中交流关于Surge / Clash配置优化方案或增加华硕路由器第三方设备图标
 
 ---
