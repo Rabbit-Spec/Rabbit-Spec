@@ -30,6 +30,12 @@
 * **跨平台兼容**：深度适配多款主流 Clash 核心及客户端，针对不同系统环境提供一致性的极致分流体验。
 * **纯净高效**：专注低延迟与高吞吐量，实现国内外流量的精准分流。
 
+### [⚡ ZTE-ModemFlow](https://github.com/Rabbit-Spec/ZTE-ModemFlow)
+**中兴光猫桥接模式时间同步自动化方案**
+* **极致采集逻辑**：基于单次 Telnet 会话及智能断行拼图算法，实现光猫硬件与链路状态的秒级精准抓取。
+* **冰霜玻璃 UI**：配套 Mushroom Glass 主题，转为手机小尺寸屏幕优化，打造具备高斯模糊玻璃质感的实时监控看板。
+* **深度 HA 集成**：通过标准的 JSON 数据流无缝对接 HomeAssistant，提供从 CPU/温度到 PON 物理纠错及一键重启的全维度控制体验。
+
 ### [🕒 ZTE-Modem-TimeSync-Shortcut](https://github.com/Rabbit-Spec/ZTE-Modem-TimeSync-Shortcut)
 **中兴光猫桥接模式时间同步自动化方案**
 * **解决痛点**：解决中兴光猫在桥接模式下无法同步时间（回滚至 1970 年）导致的日志混乱及异常重启问题。
