@@ -33,7 +33,7 @@
 ### [⚡ ZTE-ModemFlow](https://github.com/Rabbit-Spec/ZTE-ModemFlow)
 **专为中兴 ZX279133 光猫设计的高级 Home Assistant 监控方案**
 * **极致采集逻辑**：基于单次 Telnet 会话及智能断行拼图算法，实现光猫硬件与链路状态的秒级精准抓取。
-* **冰霜玻璃 UI**：配套 Mushroom Glass 主题，转为手机小尺寸屏幕优化，打造具备高斯模糊玻璃质感的实时监控看板。
+* **冰霜玻璃 UI**：配套 Mushroom Glass 主题，专为手机小尺寸屏幕优化，打造具备高斯模糊玻璃质感的实时监控看板。
 * **深度 HA 集成**：通过标准的 JSON 数据流无缝对接 HomeAssistant，提供从 CPU/温度到 PON 物理纠错及一键重启的全维度控制体验。
 
 ### [🕒 ZTE-Modem-TimeSync-Shortcut](https://github.com/Rabbit-Spec/ZTE-Modem-TimeSync-Shortcut)
