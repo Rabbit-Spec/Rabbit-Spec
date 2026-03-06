@@ -30,6 +30,12 @@
 * **跨平台兼容**：深度适配多款主流 Clash 核心及客户端，针对不同系统环境提供一致性的极致分流体验。
 * **纯净高效**：专注低延迟与高吞吐量，实现国内外流量的精准分流。
 
+### [🌐 iStoreOS_Flow](https://github.com/Rabbit-Spec/iStoreOS_Flow)
+**专为 iStoreOS (OpenWrt) 打造的 HomeAssistant 全能极简监控面板**
+* **原生高效采集**：基于免密 SSH 与原生 ubus 数据总线，彻底告别低效文本截取，实现路由系统与网络状态的极低负载、毫秒级精准抓取。
+* **极简响应 UI**：深度定制 Mushroom 模块化网格布局与 Card-mod 样式，独创多物理硬盘自动轮播与物理网口可视化，打造硬核且优雅的实时看板。
+* **深度 HA 集成**：通过一键脚本全自动部署并无缝对接 JSON 数据流，提供从实时网速/温度监控到代理状态侦测及一键重启的全维度管理体验。
+
 ### [⚡ ZTE-ModemFlow](https://github.com/Rabbit-Spec/ZTE-ModemFlow)
 **专为中兴 ZX279133 光猫设计的高级 Home Assistant 监控方案**
 * **极致采集逻辑**：基于单次 Telnet 会话及智能断行拼图算法，实现光猫硬件与链路状态的秒级精准抓取。
