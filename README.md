@@ -1,11 +1,11 @@
-[![Support on Afdian](https://img.shields.io/badge/Support-爱发电-orange.svg?style=flat-square&logo=afdian)](https://afdian.com/a/Rabbit-Spec)
+[![Support on Afdian](https://img.shields.io/badge/Support-爱发电-orange.svg?style=flat-square&logo=afdian)](https://ifdian.net/a/Rabbit-Spec)
 ### Hi there 👋, I am [Rabbit-Spec](https://github.com/Rabbit-Spec)
 
 ---
 
 # 🪧 广而告之
   * 如果您觉得本项目便捷好用
-  👉 [点击前往爱发电支持我](https://afdian.com/a/Rabbit-Spec)请我喝杯咖啡
+  👉 [点击前往爱发电支持我](https://ifdian.net/a/Rabbit-Spec)请我喝杯咖啡
   * 欢迎关注我的B站视频频道支持工作
   [【汤圆_Lyric的个人空间-哔哩哔哩】](https://b23.tv/SiQG8yl)
 
